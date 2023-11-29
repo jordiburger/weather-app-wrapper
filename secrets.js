@@ -1,2 +1,0 @@
-process.env.OPENWEATHER_API_KEY = '3c7e6b387d32dfefa077254a1872a008'
-
